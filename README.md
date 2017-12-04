@@ -4,7 +4,7 @@ Hier findest du alle Formulare, das Werbematerial und noch viele weitere Datein 
 # Lizenz
 Wenn nicht anders ausgewiesen, stehen alle Dokumente des Vereins unter der Lizenz *CC BY-SA 3.0*.
 
-# seitere Infos
+# weitere Infos
 
 https://harz.freifunk.net
 
