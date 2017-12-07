@@ -1,0 +1,6 @@
+
+.HeaderSearchOption {width: 260px; }
+.HeaderSearchOption .ftext { width: 178px; }
+.HeaderSearchOption input[type="text"]:not(dummy) {
+    margin: 1px 0px 0px 3px;
+}

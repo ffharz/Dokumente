@@ -4,7 +4,11 @@ Hier findest du alle Formulare, das Werbematerial und noch viele weitere Datein 
 # Lizenz
 Wenn nicht anders ausgewiesen, stehen alle Dokumente des Vereins unter der Lizenz *CC BY-SA 3.0*.
 
-# weitere Infos
+# Infomaterial bestellen
+
+Wir schicken dir gerne Infomaterial zu, wenn du folgendes Formular aufüllst: https://harz.freifunk.net/infomaterial
+
+# Webseite
 
 https://harz.freifunk.net
 
