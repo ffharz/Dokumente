@@ -1,0 +1,211 @@
+﻿/*
+Theme Name: Freifunk-Euskirchen
+Theme URI: http://freifunk-euskirchen.de
+Description: #
+Author: Jean Marc Schröder
+Author URI: #
+*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: 'Open Sans' , sans-serif;
+}
+body
+{
+    cursor: default;
+}
+small
+{
+    font-size: 14px;
+}
+a
+{
+    text-decoration: none;
+    color: #DC0067;
+    cursor: pointer;
+}
+
+ul
+{
+    margin-left: 16px;
+}
+h1
+{
+    font-weight: 800;
+    font-size: 36px;
+}
+h2
+{
+    font-weight: 800;
+    font-size: 24px;
+}
+#header
+{
+    background-color: #DC0067;
+    height: 145px;
+}
+#logo
+{
+    float: left;
+    margin-top: 10px;
+}
+#freifunkhead
+{
+    float: left;
+    height: 145px;
+    margin-left: 10px;
+}
+#social
+{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.links
+{
+    float: left;
+    list-style: none outside none;
+    margin-left: -22px;
+    margin-top: 10px;
+    padding: 0;
+}
+.links a
+{
+    color: #fff;
+}
+.links li
+{
+    display: block;
+    float: left;
+    list-style: none outside none;
+    margin-left: 22px;
+}
+.links a:hover
+{
+    color: #000;
+}
+#header h1
+{
+    color: #FFFFFF;
+    margin-top: 48px;
+    cursor: pointer;
+}
+.wrapper
+{
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 1000px;
+}
+#wide
+{
+    background: none repeat scroll 0 0 #444444;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#wide h2
+{
+    color: #fff;
+}
+#invitebox
+{
+    background: none repeat scroll 0 0 #F2F2F2;
+    border: 1px solid #E6E6E6;
+    float: right;
+    padding: 20px;
+    width: 210px;
+}
+.left
+{
+    float: left;
+}
+.clear
+{
+    clear: both;
+}
+.button
+{
+    background-color: #FFCB05;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 190px;
+}
+#content
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.wrapper #content
+{
+    float: left;
+    width: 730px;
+}
+#content p
+{
+    text-align: justify;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#content h2, #content h3
+{
+    margin-top: 20px;
+}
+#footer
+{
+    margin-bottom: -20px;
+    margin-top: 40px;
+}
+#cc
+{
+    margin: 0 auto;
+    width: 90px;
+}
+#linkblock
+{
+    background: none repeat scroll 0 0 #F2F2F2;
+    float: right;
+    margin-top: 20px;
+    padding: 30px;
+    width: 190px;
+}
+#linkblock h3
+{
+    background-image: url("http://freifunk-euskirchen.de/images/pfeil_klein.png");
+    background-position: 0 2px;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    line-height: 20px;
+    margin-bottom: 15px;
+    padding-left: 1.2em;
+}
+table
+{
+    width: 100%;
+    border: 1px solid #444444;
+    text-align: left;
+}
+th
+{
+    background: #444444;
+    color: #fff;
+}
+th, td
+{
+    padding: 5px;
+}
+tr:nth-child(even)
+{
+    background: #F2F2F2;
+}
+#Communityname
+{
+    margin-left: 9px;
+}
