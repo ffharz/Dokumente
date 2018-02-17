@@ -4,8 +4,8 @@ Tel.: 0152/XXXXXXXXX | E-Mail: m.mustermann@harz.freifunk.net
 GPG/PGP Pub Key für verschlüsselte Mails:  
 https://pgp.mit.edu/pks/lookup?op=get&search=0x23EAEKF99A937B6A  
 
-Post: p.Adr. Max Mischorr | Max-Otto-Straße 4 | 38855 Wernigerode  
-Vereinsvorstand: Max Mischorr, Thomas Warnecke, Uwe Stade und Corvin Schwarzer  
+Post: Freifunk Harz e.V. | Schützenbrücke 2 | 06484 Quedlinburg
+Vereinsvorstand: Max Mischorr, Thomas Warneck und Helmut Wenzel 
 Registernummer: VR 4227 Amtsgericht Stendal  
 
 Web: https://harz.freifunk.net  
