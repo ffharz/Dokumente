@@ -1,3 +1,10 @@
+Einfach kopieren und den oberen Teil anpassen!
+
+
+----
+
+
+
 --  
 Max Mustermann | Technik/Marketing  
 Tel.: 0152/XXXXXXXXX | E-Mail: m.mustermann@harz.freifunk.net  
