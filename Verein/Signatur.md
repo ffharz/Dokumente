@@ -12,7 +12,7 @@ GPG/PGP Pub Key für verschlüsselte Mails:
 https://pgp.mit.edu/pks/lookup?op=get&search=0x23EAEKF99A937B6A  
 
 Post: Freifunk Harz e.V. | Schützenbrücke 2 | 06484 Quedlinburg  
-Vereinsvorstand: Max Mischorr, Thomas Warneck und Helmut Wenzel   
+Vereinsvorstand: Max Mischorr, Thomas Warnecke und Helmut Wenzel   
 Registernummer: VR 4227 Amtsgericht Stendal  
 
 Web: https://harz.freifunk.net  
