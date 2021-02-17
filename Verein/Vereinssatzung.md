@@ -8,14 +8,15 @@
 
 ## § 2 Zweck des Vereins; Gemeinnützigkeit
 
-1. Zweck des Vereins ist die Förderung der Bildung und Kultur bezüglich kabelloser und kabelgebundener Computernetzwerke, die der Allgemeinheit zugänglich sind (freie Netzwerke).
-2. Der Verein verfolgt ausschließlich, unmittelbar und uneigennützig Zwecke zum Wohle der Allgemeinheit im Sinne der allgemein anerkannten Vorschriften.
+1. Zweck des Vereins ist die Förderung, der Aufbau, der Betrieb und die Weiterentwicklung von Freifunk-Netzen und allen damit in Zusammenhang stehenden, den Vereinszweck fördernden Tätigkeiten.
+2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke Sinne des Abschnitts Steuerbegünstigte Zwecke der Abgabenordnung.
 3. Der Satzungszweck wird verwirklicht insbesondere durch folgende Maßnahmen:
    1. Information der Mitglieder, der Öffentlichkeit und interessierter Kreise über freie Netzwerke, insbesondere durch das Internet und durch Vorträge, Veranstaltungen, Vorführungen und Publikationen;
    2. Bereitstellung von Know-How über Technik und Anwendung freier Netzwerke;
-   3. Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
-   4. Förderung der Kontakte und des Austauschs mit weiteren Personen und Organisationen im In- und Ausland, die im Bereich der freien Netzwerke tätig sind oder denen die Interessen des Vereins nahegelegt werden sollten.
-   5. Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke nähergebracht werden soll.
+   3. Planung, Aufbau, Betrieb und Bereitstellung eines für Jeden nutzbaren Freifunk-Netzes;
+   4. Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
+   5. Förderung der Kontakte und des Austauschs mit weiteren Personen und Organisationen im In- und Ausland, die im Bereich der freien Netzwerke tätig sind oder denen die Interessen des Vereins nahegelegt werden sollten.
+   6. Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke nähergebracht werden soll.
 4. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 5. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Gewinnanteile und in ihrer Eigenschaft als Mitglieder auch keine sonstigen Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßige hohe Vergütungen begünstigt werden. Alle Inhaber von Vereinsämtern sind ehrenamtlich tätig.
 6. Jeder Beschluss über die Änderung der Satzung ist vor dessen Anmeldung beim Registergericht dem zuständigen Finanzamt vorzulegen.
@@ -92,9 +93,9 @@
 ## § 13 Auflösung des Vereins und Anfallberechtigung
 
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der im § 10 festgelegten Stimmenmehrheit beschlossen werden. Sofern die Mitgliederversammlung nichts anderes beschließt, sind die Vorsitzenden gemeinsam vertretungsberechtigte Liquidatoren. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
-2. Bei der Auflösung des Vereins fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Bildung im IT-Bereich.
+2. Bei der Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Bildung im IT-Bereich.
 
 ## § 14 Inkrafttreten
 
-1. Die vorliegende Satzung ist in der Mitgliederversammlung vom 01.11.2019 beschlossen worden und mit dem gleichen Tage in Kraft getreten.
-2. Die Neufassung ersetzt die die bisherige Fassung vom 07.03.2015.
+1. Die vorliegende Satzung ist in der Mitgliederversammlung vom 01.11.2019 beschlossen worden und mit dem gleichen Tage in Kraft getreten. Sie wurde in der Mitgliederversammlung vom 30.01.2021 geändert.
+2. Die Neufassung ersetzt die die bisherige Fassung vom 01.11.2019.
